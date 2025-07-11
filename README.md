@@ -18,6 +18,8 @@
     *   `id="display"` 是顯示螢幕，`readonly` 讓它只能顯示不能手動輸入。
     *   每個按鈕都有 `onclick` 事件，這表示當你點擊按鈕時，會執行 `calculator.js` 裡面的某個功能。
 
+**[查看 `index.html` 詳細教學](tutorial/index_html_tutorial.md)**
+
 ### 2. `calculator.css` (網頁外觀設計)
 
 `calculator.css` 檔案負責計算機網頁的「外觀設計」，就像房子的裝潢一樣。它決定了計算機看起來是什麼樣子，包括顏色、字體、按鈕的形狀、大小，以及如何排列它們。
@@ -33,6 +35,8 @@
     *   `background` 可以設定背景顏色或圖片。
     *   `border-radius` 可以讓方塊變成圓角。
     *   `display: grid` 是一種很棒的排版方式，可以讓按鈕整齊排列。
+
+**[查看 `calculator.css` 詳細教學](tutorial/calculator_css_tutorial.md)**
 
 ### 3. `calculator.js` (網頁功能與邏輯)
 
@@ -50,6 +54,8 @@
     *   `calculate()` 函數就是執行實際計算的地方。
     *   `let` 關鍵字用來宣告變數，它們用來儲存數字、運算符等資訊。
     *   `document.getElementById("display")` 可以找到 `index.html` 裡面的顯示螢幕元素，然後對它進行操作。
+
+**[查看 `calculator.js` 詳細教學](tutorial/calculator_js_tutorial.md)**
 
 ## 如何開始使用？
 
