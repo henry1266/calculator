@@ -1,3 +1,5 @@
+範例連結：[https://avubjmut.manus.space/](https://avubjmut.manus.space/)
+
 # 簡易計算機專案
 
 這是一個基於網頁的簡易計算機專案，非常適合初學者學習網頁開發（HTML、CSS、JavaScript）的基本概念。這個專案包含三個核心檔案，它們各司其職，共同構成了一個功能完整的計算機。
